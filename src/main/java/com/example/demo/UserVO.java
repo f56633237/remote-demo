@@ -13,4 +13,5 @@ public class UserVO {
     private String userName;
     private Integer age;
     private String address;
+    private String vocation;
 }
