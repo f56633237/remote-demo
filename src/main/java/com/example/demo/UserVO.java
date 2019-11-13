@@ -10,4 +10,5 @@ package com.example.demo;
  * Date	      2019/11/13 16:26
  */
 public class UserVO {
+    private String userName;
 }
