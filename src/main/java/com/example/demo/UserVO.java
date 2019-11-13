@@ -14,4 +14,5 @@ public class UserVO {
     private Integer age;
     private String address;
     private String vocation;
+    private BigDecimal salary;
 }
