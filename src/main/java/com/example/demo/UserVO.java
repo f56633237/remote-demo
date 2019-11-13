@@ -11,4 +11,5 @@ package com.example.demo;
  */
 public class UserVO {
     private String userName;
+    private Integer age;
 }
